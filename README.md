@@ -33,7 +33,7 @@ Este es un conjunto de temas para Xcode inspirados en el enfoque, con un diseño
 
    Si la carpeta no existe, ve a Xcode > Preferences > Settings > Themes, debes crear un tema nuevo duplicanco uno existente, esto creara la carpeta FontAndColorThemes de forma automática e intenta de nuevo con el comando open.
    
-       ```plaintext
+    ```plaintext
    open FontAndColorThemes
    ```
    
@@ -48,7 +48,6 @@ Este es un conjunto de temas para Xcode inspirados en el enfoque, con un diseño
    - Ve a `Xcode > Preferences...` (`Cmd + ,`)  
    - En la pestaña **Themes**, selecciona el tema **ClearFocus** o **DeepFocus** de la lista.
 
----
 
 ---
 
@@ -62,7 +61,6 @@ Aquí puedes ver cómo se verán los temas.
 ### **DeepFocus**
 ![Vista previa del tema DeepFocus](./assets/DeepFocus.png)  
 
----
 
 ---
 

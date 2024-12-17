@@ -1,4 +1,4 @@
-# 🚀 **Focus Mode - Temas Minimalistas para Xcode** ✨
+# 🚀 **Focus Mode - Temas para Xcode** ✨
  
 Este es un conjunto de temas para Xcode inspirados en el enfoque, con un diseño minimalista moderno y optimizado. 🖌️  
 
@@ -70,5 +70,5 @@ Este proyecto se distribuye bajo la licencia [MIT](https://opensource.org/licens
 
 ---
 
-¡Espero que disfrutes utilizando **Focus Mode**! 💻✨ 🚀  
+¡Espero que disfrutes utilizandolo! 💻✨ 🚀  
 

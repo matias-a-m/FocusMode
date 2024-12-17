@@ -1,10 +1,4 @@
-# 🚀 **Focus Mode - Temas para Xcode** ✨
- 
-Este es un conjunto de temas para Xcode inspirados en el enfoque, con un diseño minimalista moderno y optimizado. 🖌️  
-
----
-
-## 📖 **¿Qué es Focus Mode?**
+# **Temas para Xcode** ✨
 
 *Es una colección de temas para Xcode diseñada para ofrecer una experiencia de desarrollo enfocada en minimalismo y funcionalidad. Incluye dos temas principales: **ClearFocus** y **DeepFocus**, cada uno creado para adaptarse a diferentes estilos de trabajo y necesidades visuales.
 

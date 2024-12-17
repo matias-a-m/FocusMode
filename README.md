@@ -1,6 +1,6 @@
 # **Temas para Xcode** ✨
 
-Es una colección de 2 temas para Xcode diseñada para ofrecer una experiencia de desarrollo enfocada en minimalismo y funcionalidad. Incluye dos temas principales: **ClearFocus** y **DeepFocus**.
+Es una colección de 2 temas para Xcode diseñadas enfocadas en minimalismo y funcionalidad. Incluye los temas: **ClearFocus** y **DeepFocus**.
 
 ---
 
